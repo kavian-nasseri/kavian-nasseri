@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm Kavian Nasseri
+# I'm Kavian Nasseri
 
-## When I code, I rely on
+## The tech I use
 
 <p>
 
